@@ -90,7 +90,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 //Answer 12:
 
-no
+yes
 
 //Answer 13:
 
